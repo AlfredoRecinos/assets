@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120.39 125.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #7d5fff;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="40.72 81.56 3 81.56 3 3 117.39 3 117.39 81.56 79.64 81.56"/>
+  <ellipse class="cls-1" cx="60.35" cy="68.75" rx="15.69" ry="15.74"/>
+  <g>
+    <polyline class="cls-1" points="60.2 86.9 80.28 117.39 83.09 103.73 96 106.39 74.97 74.47"/>
+    <polyline class="cls-1" points="61.8 84.42 40.08 117.39 37.27 103.73 24.36 106.39 45.61 74.14"/>
+  </g>
+  <line class="cls-1" x1="49.63" y1="25" x2="70.73" y2="25"/>
+  <line class="cls-1" x1="37.57" y1="39.01" x2="82.79" y2="39.01"/>
+  <g>
+    <polyline class="cls-1" points="26.09 17.57 17.92 17.57 17.92 66.99 26.09 66.99"/>
+    <polyline class="cls-1" points="94.27 17.57 102.45 17.57 102.45 66.99 94.27 66.99"/>
+  </g>
+</svg>
